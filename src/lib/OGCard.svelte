@@ -6,7 +6,7 @@
 
 <div class="card">
     <div class="left">
-        <img src="http://localhost:5173/avatar.png" alt="">
+        <img src="https://og.kaanksc.com/avatar.png" alt="">
         <div class="name">KAAN KUSCU</div>
         <div class="job-title">BACKEND DEVELOPER</div>
     </div>

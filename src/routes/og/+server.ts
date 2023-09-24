@@ -18,19 +18,19 @@ export const GET: RequestHandler = (async ({url}) => {
             fonts: [
                 {
                     name: 'Poppins',
-                    url: `http://localhost:5173/Poppins-200.ttf`,
+                    url: `https://og.kaanksc.com/Poppins-200.ttf`,
                     weight: 200,
                     style: 'normal'
                 },
                 {
                     name: 'Poppins',
-                    url: `http://localhost:5173/Poppins-700.ttf`,
+                    url: `https://og.kaanksc.com/Poppins-700.ttf`,
                     weight: 700,
                     style: 'normal'
                 },
                 {
                     name: 'Poppins',
-                    url: `http://localhost:5173/Poppins-900.ttf`,
+                    url: `https://og.kaanksc.com/Poppins-900.ttf`,
                     weight: 900,
                     style: 'normal'
                 },
